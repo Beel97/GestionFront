@@ -3,5 +3,9 @@ import TheWelcome from "../components/TheWelcome.vue";
 </script>
 
 <template>
-  <main>asdasdasd</main>
+  <main>
+    <div class="w-full h-full flex justify-center align-middle">
+      <img alt="Ieca" src="../assets/images/logo-ieca-azul.png" />
+    </div>
+  </main>
 </template>
